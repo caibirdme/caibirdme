@@ -1,6 +1,6 @@
 <p align="left">
 <h1>💫 About Me:</h1>
-Hi, I'm caibirdme, A passionate and curious backend developer from China
+Hi, I'm caibirdme, A passionate and curious backend developer from Hongkong
 
 🔭 I’m currently working on: [ltbridge](https://github.com/caibirdme/ltbridge)<br>🌱 I’m currently learning: Rust, OSS-based DB, web3<br>
 </p>
